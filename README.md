@@ -3,9 +3,7 @@
 ## Overview 
 This collaborative endeavor involved my friends and me. The project, known as Matcha HQ, was conceptualized to introduce the wonders of matcha to the public. Its primary focus was to facilitate the online sale of matcha-infused food and beverages. The platform served as a constant source of information about our establishment, accessible to anyone with an internet connection.
 
-Within the website's framework, users could readily access vital details such as operating hours, directions, menu items, and accepted payment methods. Furthermore, the website offered the convenience of pre-ordering for both dine-in and pick-up services. This feature enabled customers to peruse the digital menu, make their selections, and complete their payment, specifying whether they intended to dine in or opt for pick-up prior to their visit.
-
-One of the standout attributes of the Matcha HQ website was its ability to captivate a new audience by broadcasting announcements about novel recipes, upcoming events, and exclusive promotions. Consequently, this digital platform became an enticing portal for potential customers, allowing them to explore the menu remotely and make informed decisions about visiting our physical establishment.
+Within the website's framework, users could readily access vital details such as operating hours, directions, menu items, and accepted payment methods. Furthermore, the website offered the convenience of pre-ordering for both dine-in and pick-up services. This feature enabled customers to peruse the digital menu, make their selections, and complete their payment, specifying whether they intended to dine in or opt for pick-up prior to their visit. Consequently, this digital platform became an enticing portal for potential customers, allowing them to explore the menu remotely and make informed decisions about visiting our physical establishment.
 
 ## Screenshots of MatchaHQ's Website
 Login Page <br />

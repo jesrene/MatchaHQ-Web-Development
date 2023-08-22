@@ -1,7 +1,11 @@
 # MatchaHQ-Web-Development
 
 ## Overview 
-This is a project I worked on with my friends. Matcha HQ is designed to promote matcha to public, sell food and drinks about matcha online to customers. Information about our restaurant is available all times to anyone with internet access. Within our website, the public may know our operating hours, directions, menu, payment methods, and more. Next, our website also provides pre-orders for dine-in and pick up services. Customers can swipe our online menu anywhere and place and pay their order by choosing dine-in or pick up before they come to our restaurant. Moreover, Matcha HQ website can attract new customers by making announcements about a new recipe, an upcoming event, or special offers. Thus, customers may look at our menu online and decide to come to our restaurant. 
+This collaborative endeavor involved my friends and me. The project, known as Matcha HQ, was conceptualized to introduce the wonders of matcha to the public. Its primary focus was to facilitate the online sale of matcha-infused food and beverages. The platform served as a constant source of information about our establishment, accessible to anyone with an internet connection.
+
+Within the website's framework, users could readily access vital details such as operating hours, directions, menu items, and accepted payment methods. Furthermore, the website offered the convenience of pre-ordering for both dine-in and pick-up services. This feature enabled customers to peruse the digital menu, make their selections, and complete their payment, specifying whether they intended to dine in or opt for pick-up prior to their visit.
+
+One of the standout attributes of the Matcha HQ website was its ability to captivate a new audience by broadcasting announcements about novel recipes, upcoming events, and exclusive promotions. Consequently, this digital platform became an enticing portal for potential customers, allowing them to explore the menu remotely and make informed decisions about visiting our physical establishment.
 
 ## Screenshots of MatchaHQ's Website
 Login Page <br />

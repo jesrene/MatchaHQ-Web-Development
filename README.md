@@ -1,4 +1,4 @@
-# MatchaHQ-Web-Development
+# MatchaHQ Web Development
 
 ## Overview 
 This collaborative endeavor involved my friends and me. The project, known as Matcha HQ, was conceptualized to introduce the wonders of matcha to the public. Its primary focus was to facilitate the online sale of matcha-infused food and beverages. The platform served as a constant source of information about our establishment, accessible to anyone with an internet connection.
